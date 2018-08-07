@@ -11,7 +11,8 @@
     "bitcoin",
     "browserify",
     "javascript",
-    "bitcoinjs"
+    "bitcoinjs",
+    "motionjs"
   ],
   "scripts": {
     "coverage-report": "nyc report --reporter=lcov",
